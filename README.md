@@ -92,19 +92,19 @@ me.say_hi()
 
 <div align="center">
 
-### 🌤️ [Weather Dashboard](https://github.com/pipe-2233/weather-dashboard)
+### 🌤️ [Weather Dashboard](https://pipe-2233.github.io/-Weather-Dashboard/)
 **Interactive weather application with real-time data**
 - 🔍 Smart autocomplete for 150+ cities
 - 🎨 Glassmorphism effects & smooth animations
 - 📱 Responsive design with TypeScript & Vite
 
-### 🥚 [IoT Egg Selector](https://github.com/pipe-2233/egg-selector-iot)
+### 🥚 [IoT Egg Selector](https://youtu.be/59WqdnSK7DM?si=TbV-ruS2hyEhfyP1)
 **Intelligent egg classification system**
 - 👁️ Computer vision with OpenCV
 - 🤖 Machine learning algorithms
 - 📡 IoT integration with MQTT
 
-### 💰 [Financial Dashboard](https://github.com/pipe-2233/financial-dashboard)
+### 💰 [Financial Dashboard](https://pipe-2233.github.io/financial-dashboardx/)
 **Personal finance management app**
 - 📊 Interactive charts and analytics
 - 💳 Expense categorization
