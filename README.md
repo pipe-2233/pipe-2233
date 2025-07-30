@@ -1,5 +1,14 @@
 # 🚀 Andrés Felipe Montoya Baena
+
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Electronics+Industrial+Technologist;IoT+Developer+%26+Innovator;Python+%26+Computer+Vision+Expert;Machine+Learning+Enthusiast;Always+Learning+New+Technologies!)
+
+</div>
+
 ---
+
 
 ## 🌐 Let's Connect!
 
@@ -13,15 +22,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresfelipemontoya56@gmail.com)
 
 </div>
----
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Electronics+Industrial+Technologist;IoT+Developer+%26+Innovator;Python+%26+Computer+Vision+Expert;Machine+Learning+Enthusiast;Always+Learning+New+Technologies!)
-
-</div>
 
 ---
+
 
 ## 🧑‍💻 About Me
 
