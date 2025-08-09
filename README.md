@@ -171,8 +171,6 @@ me.say_hi()
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👀 Profile Views
-![Visitor Count](https://visitcount.itsvg.in/api?id=pipe-2233&icon=6&color=2)
 
 **⭐ "La innovación distingue a un líder de un seguidor" - Steve Jobs**
 
